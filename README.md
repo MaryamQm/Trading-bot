@@ -36,7 +36,7 @@ Before you get started with this project, you'll need the following:
 3. Install the project dependencies:
 
    ```shell
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
