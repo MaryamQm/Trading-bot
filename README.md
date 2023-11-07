@@ -72,8 +72,6 @@ This project is for educational purposes only. Do not use this trading bot for r
 
 ## Contributors
 
-- [Your Name](https://github.com/MaryamQm) - Project Lead
-- [Contributor 1](https://github.com/MaryamQm) - GUI Development
-- [Contributor 2](https://github.com/MaryamQm) - Documentation
-
-```
+- [Maryam Ekhtiari] https://github.com/MaryamQm) - Project Lead
+- [Maryam Ekhtiari](https://github.com/MaryamQm) - GUI Development
+- [Maryam Ekhtiari](https://github.com/MaryamQm) - Documentation
