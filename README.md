@@ -44,7 +44,7 @@ Before you get started with this project, you'll need the following:
 1. Run the trading bot script to start the bot:
 
    ```shell
-   python trading_bot.py
+   python3 trading_bot.py
    ```
 
    The bot will execute in the console, and you can interact with it via the command line.
@@ -52,7 +52,7 @@ Before you get started with this project, you'll need the following:
 2. Optionally, run the GUI script to interact with the bot through a graphical user interface:
 
    ```shell
-   python gui.py
+   python3 trading_bot_gui.py
    ```
 
    The GUI provides an easy way to buy and sell shares and view order history.
